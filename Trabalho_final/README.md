@@ -13,6 +13,7 @@ Desenvolver um sistema capaz de:
 -Disponibilizar a aplicação como uma API funcional, escalável e de fácil integração.
 
 🛠️ Etapas do Desenvolvimento
+
 ✔ 1. Planejamento e Documentação
 
 Na primeira parte do projeto, realizamos:
