@@ -74,10 +74,10 @@ Sistema escalável e modular
 
 👥 Equipe do Projeto
 
-Dania Sadallah 
-Luís Miguel
-Thiago França
-João César
+- Dania Sadallah 
+- Luís Miguel
+- Thiago França
+- João César
 
 📌 Status do Projeto
 
