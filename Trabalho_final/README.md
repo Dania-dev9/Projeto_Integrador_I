@@ -66,11 +66,11 @@ Sistema escalável e modular
 
 🧪 Tecnologias Utilizadas
 
--JavaScript / HTML / CSS
--Google Forms API (referência)
--JSON
--GitHub para versionamento
--Ferramentas de documentação (Markdown, Diagramas, etc.)
+- JavaScript / HTML / CSS
+- Google Forms API (referência)
+- JSON
+- GitHub para versionamento
+- Ferramentas de documentação (Markdown, Diagramas, etc.)
 
 👥 Equipe do Projeto
 
