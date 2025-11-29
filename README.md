@@ -44,24 +44,27 @@ Atualmente estamos implementando:
 
 📄 Transformação automática de documento → JSON 📝 Conversão do JSON → Google Forms 🔗 Integração com endpoints externos 🧩 Melhorias de arquitetura, organização e versionamento do código 🚀 Funcionalidades Principais
 
-Quiz gamificado estilo Show do Milhão
-Conversor de documentos em JSON
-Geração automática de formulários
-API própria para gerenciamento das perguntas
-Sistema escalável e modular
+- Quiz gamificado estilo Show do Milhão
+- Conversor de documentos em JSON
+- Geração automática de formulários
+- API própria para gerenciamento das perguntas
+- Sistema escalável e modular
+
 🧪 Tecnologias Utilizadas
 
-JavaScript / HTML / CSS
-Google Forms API (referência)
-JSON
-GitHub para versionamento
-Ferramentas de documentação (Markdown, Diagramas, etc.)
+- JavaScript / HTML / CSS
+- Google Forms API (referência)
+- JSON
+- GitHub para versionamento
+- Ferramentas de documentação (Markdown, Diagramas, etc.)
+
 👥 Equipe do Projeto
 
-Dania Sadallah
-Luís Miguel
-Thiago França
-João César
+- Dania Sadallah
+- Luís Miguel
+- Thiago França
+- João César
+
 📌 Status do Projeto
 
 🔧 Em desenvolvimento — Fase de API e automação (documento → JSON → Formulário).
