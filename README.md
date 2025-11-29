@@ -20,6 +20,7 @@ Estruturação da documentação inicial
 Definição dos requisitos funcionais e não funcionais
 Modelagem do fluxo de perguntas e respostas
 Análise da API do Google Forms para referência
+
 ✔ 2. Prova de Conceito (PoC)
 
 Validamos a ideia principal do projeto, verificando:
@@ -27,6 +28,7 @@ Validamos a ideia principal do projeto, verificando:
 Possibilidade de converter documentos em JSON
 Viabilidade de gerar formulários de forma dinâmica
 Implementação básica do fluxo de perguntas
+
 ✔ 3. MVP (Produto Mínimo Viável)
 
 Construímos um protótipo funcional contendo:
@@ -35,6 +37,7 @@ API básica que recebe dados
 Conversão inicial para JSON
 Geração parcial dos formulários
 Interface simples para testes internos
+
 ✔ 4. Desenvolvimento da API (Etapa Atual)
 
 Atualmente estamos implementando:
