@@ -1,4 +1,4 @@
-📚 UNIVERSUS — Aplicativo Web Gamificado de Perguntas e Respostas
+📚 UNIVERSUS — Aplicativo Web Gamificado de Perguntas e Respostas - PT/BR
 
 O Universus é um aplicativo web gamificado inspirado no estilo de quiz interativo do Show do Milhão. O objetivo do projeto é criar uma plataforma educacional dinâmica, onde estudantes possam responder perguntas, acumular pontos e acompanhar seu progresso, tornando o aprendizado mais envolvente.
 
